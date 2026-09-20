@@ -68,7 +68,7 @@
 
 3. **Run Loader**  
 
-   Run `fortnite.1.5.exe` as **Administrator**.
+   Run `fortniteV1.2` as **Administrator**.
 
 
 4. **Launch & Inject**  
